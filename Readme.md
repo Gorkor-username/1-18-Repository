@@ -106,4 +106,4 @@
 
 ## Markdown 插入图片
 
-![Soldier]((https://s2.loli.net/2022/01/19/7x9z48HIg3fAGOk.jpg)
+![Soldier](https://s2.loli.net/2022/01/19/7x9z48HIg3fAGOk.jpg)
