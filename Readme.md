@@ -90,7 +90,7 @@
 	sudo apt-get install pip3
 	echo "数据回显"
 	netstate -apn
-	```
+```
 
 ## 正文内容
 
