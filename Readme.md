@@ -54,3 +54,56 @@
 >>> 第三层引用
 
 >>>> 第四层引用
+
+
+## Markdowm 插入代码块
+
+```c  
+
+	#include <stdio.h>
+
+	int  main()
+	{
+		printf("C output..\n");
+		return 0;
+	}
+```
+```cpp
+	#include<iostream>
+
+	int main()
+	{
+		cout<<"makabaka"<<endl
+		return 0;
+	}
+```
+
+```python
+	import urllib
+	import os
+
+	def function():
+		print("python code..\n")
+```
+
+```bash
+	sudo apt-get install pip3
+	echo "数据回显"
+	netstate -apn
+	```
+
+## 正文内容
+
+玛卡巴卡，哇卡，呀卡，伊卡，玛卡姆。`--玛卡巴卡`
+
+
+## 在文章中插入超链接（可以进行网页跳转）
+
+[哔哩哔哩](https://www.bilibili.com/?spm_id_from=333.999.b_696e7465726e6174696f6e616c486561646572.1)
+
+
+[百度](https://www.baidu.com/?tn=98010089_dg&ch=12 "跳到百度")
+
+## Markdown 插入图片
+
+![111.jpg](https://s2.loli.net/2022/01/19/ENvp9TRePJ6fi7Z.jpg)
